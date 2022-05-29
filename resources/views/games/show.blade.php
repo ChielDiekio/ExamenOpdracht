@@ -23,7 +23,7 @@
 
     @foreach($games as $game)
 
-        <?php $game->uitgave_datum =  $game->{'uitgave datum'}; ?>
+        <?php $game->uitgave_datum = $game->{'uitgave datum'}; ?>
         <tr>
             <td>{{ $game->id }} </td>
             <td>{{ $game->titel }} </td>
