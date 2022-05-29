@@ -15,6 +15,7 @@ class listcontroller extends Controller
      * @return \Illuminate\Contracts\Foundation\Application|\Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View
      */
 
+
     //functie die data uit 'Gamedavs; haalt en stuurt naar de index.blade view1
     public function index()
         {
