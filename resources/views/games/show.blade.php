@@ -14,8 +14,8 @@
     <thead class="thead-dark">
     <tr>
         <th scope="col">#</th>
-        <th scope="col">Titel Game:</th>
-        <th scope="col">Uigave datum:</th>
+        <th scope="col" >Titel Game:</th>
+        <th scope="col">Uitgave datum:</th>
         <th scope="col">Te spelen op:</th>
     </tr>
     </thead>
